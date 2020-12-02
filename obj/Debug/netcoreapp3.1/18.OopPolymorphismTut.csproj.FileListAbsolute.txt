@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\bin\Debug\netcoreapp3.1\18.OopPolymorphismTut.exe
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\bin\Debug\netcoreapp3.1\18.OopPolymorphismTut.deps.json
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\bin\Debug\netcoreapp3.1\18.OopPolymorphismTut.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\bin\Debug\netcoreapp3.1\18.OopPolymorphismTut.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\bin\Debug\netcoreapp3.1\18.OopPolymorphismTut.dll
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\bin\Debug\netcoreapp3.1\18.OopPolymorphismTut.pdb
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\obj\Debug\netcoreapp3.1\18.OopPolymorphismTut.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\obj\Debug\netcoreapp3.1\18.OopPolymorphismTut.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\obj\Debug\netcoreapp3.1\18.OopPolymorphismTut.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\obj\Debug\netcoreapp3.1\18.OopPolymorphismTut.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\obj\Debug\netcoreapp3.1\18.OopPolymorphismTut.dll
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\obj\Debug\netcoreapp3.1\18.OopPolymorphismTut.pdb
+C:\Users\Bla\source\repos\OOP\18.OopPolymorphismTut\obj\Debug\netcoreapp3.1\18.OopPolymorphismTut.genruntimeconfig.cache
