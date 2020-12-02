@@ -1,0 +1,2 @@
+# OopStaticOrCompileTimePolymoprhism
+CompileTimePolymorhism achieved per methodsOverloading! 
