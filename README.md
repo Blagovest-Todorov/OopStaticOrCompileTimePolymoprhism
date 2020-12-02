@@ -1,3 +1,2 @@
-# OopStaticOrCompileTimePolymorp
-hism
+# OopStaticOrCompileTimePolymorphism
 CompileTimePolymorphism achieved per methodsOverloading! 
